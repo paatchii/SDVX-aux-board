@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "SDVX-aux-board")(type "KiCad")(uri "${KIPRJMOD}/SDVX-aux-board.pretty")(options "")(descr ""))
+)
