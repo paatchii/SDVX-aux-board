@@ -1,5 +1,7 @@
 # SDVX-aux-board
 
+HAS SMALL ERROR THAT NEEDS TO BE FIXED, DO NOT ORDER
+
 ![The PCB](images/kicad_vS9rGnSwj9.png)
 
 A replica of the aux board PWB111383270000 "sea horse" found in Sound Voltex cabs.
